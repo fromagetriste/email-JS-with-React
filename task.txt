@@ -1,0 +1,11 @@
+Install React
+Install Tailwind CSS, configure it
+App.jsx, then Main.jsx, then create Contact US.jsx in components folder
+go to Email JS, docs, install emailJS on vs code, copy paste the form snippet
+change the classes in form
+configure Email JS first template
+add required fields to form
+configure the submit function
+configure Email JS for email confirmation (2nd template)
+Add spinner, conditionnal rendering and state isLoading
+install Toastify, code it
